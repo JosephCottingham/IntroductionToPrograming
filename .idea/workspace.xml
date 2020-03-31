@@ -18,7 +18,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSE205/src/BinaryTreesRecursion/main.java" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="BSTree" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/CSE205/src/BinaryTreesRecursion/BSTree.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="IntroductionToPrograming" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/CSE205/src/BinaryTreesRecursion/main.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,14 +51,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585534602051">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585609764115">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585534602051" />
-    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1584857170041">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585609764115" />
+    <state x="777" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585609778086">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1584857170041" />
+    <state x="777" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585609778086" />
+    <state x="509" y="195" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585596866653">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="509" y="195" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585596866653" />
+    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1585609762561">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585609762561" />
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1585676318856">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/-1920.0.1858.1080/1920.0.1218.1024@0.0.1858.1080" timestamp="1585676318856" />
     <state x="311" y="160" key="new project wizard" timestamp="1584857237067">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
